@@ -1,6 +1,7 @@
 # Fantasy Premier League, Season Review 2024-25
 
 ## Overview
+Fantasy Premier League (FPL) challenges players to build a virtual team that scores points based on real-world football performance. This report uses 2024-25 season data from Vaastav's GitHub repo to present an Exploratory Data Analysis (EDA), focusing on player price, performance, and key positional insights for making data-driven decisions.
 
 ## Motivation
 I  chose this project to demonstrate my end-to-end **data management capabilities**, spanning the entire lifecycle from **data discovery, sourcing, and loading** to **filtering, refining, and analysis**. 
